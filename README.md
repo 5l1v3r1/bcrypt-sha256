@@ -1,2 +1,3 @@
-# bcrypt-sha256
+# Bcrypt-sha256
+
 Reference implementation of the bcrypt(base64(sha256_raw($plain))) algorithm.
